@@ -117,7 +117,7 @@ const projects = [
 	},
 	{
 		name: `NetFix-Clone`,
-		link: 'https://main--iridescent-entremet-1d8fac.netlify.app/login',
+		link: 'https://iridescent-entremet-1d8fac.netlify.app/login',
 		github: 'https://github.com/Rohit-0508/Netflix-Clone',
 		description: "The Netflix Clone is a streaming service replica designed to showcase my skills in React.js, API integration, and Firebase authentication. This project mirrors Netflix's user experience, offering a seamless interface for browsing and streaming content. The implementation of Firebase ensures secure and efficient user authentication, demonstrating my proficiency in modern web technologies.",
 		image: netflix
